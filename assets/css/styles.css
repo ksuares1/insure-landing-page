@@ -1,4 +1,4 @@
-hr{
+/* hr{
     width:15%;
     height:25%;
     top:10px;
@@ -6,8 +6,26 @@ hr{
     position:relative;
     margin:45px;
     
-}
+} */
 
 /* .different{
     position:relative;
 } */
+
+
+/* .logo{
+  
+} */
+
+
+.nav-items{
+list-style-type:none; 
+display:flex;
+flex-direction: row;
+margin:right;
+ 
+}
+
+.nav{
+    position:relative;
+}
