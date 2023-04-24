@@ -18,8 +18,7 @@ html{
 .nav-menu, li{
 list-style-type:none; 
 display:flex;
-/* flex-direction: row; */
-flex-wrap: wrap;
+justify-content: flex-end;
 
 position:relative;
 top: -65px;
@@ -43,6 +42,7 @@ p{
 
 .nav-item{
     top:10px;
+    margin-right: 2rem;
 }
 
 .nav-link{
