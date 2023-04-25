@@ -39,13 +39,20 @@ top:-50px;
     text-decoration: none;
 }
 
-.pricing-btn , .plans-pg{
+.pricing-btn {
     background-color: white;
     border-color:black ;
+    border-radius:6px;
+}
+.plans-pg{
+    background-color: white;
+    color:white;
+    border-radius:6px; 
 }
 
 .row{
     display:flex;
+    margin:10px;
 }
 
 .col{
@@ -57,9 +64,20 @@ top:-50px;
     padding:20px;
 }
 
+.welcome-container{
+    background-color:hsl(270, 9%, 17%);
+    width:100%;
+}
 
-hr{
-    width:35%;
+
+.company-info{
+    color:white;
+}
+.container-divider{
+width: 25%;
+position: relative;
+top: -10px;
+left: -280px;
 }
 /* footer */
 
