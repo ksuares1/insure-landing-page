@@ -86,12 +86,15 @@ top:-50px;
 
 .company-info{
     color:white;
+        position: relative;
+    top: -10px;
+    left: -45px;
 }
 .container-divider{
 width: 25%;
 position: relative;
 top: -10px;
-left: -280px;
+left: -315px;
 }
 /* footer */
 
