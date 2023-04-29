@@ -86,7 +86,15 @@ top:-50px;
     font-family:'DM Serif Display', serif;
 }
 
+.family-pic{
+    position: relative;
+    top: 85px;
+    height: 600px;
+}
 
+.company-info-container{
+    margin:35px;
+}
 .company-info{
     color:white;
         position: relative;
@@ -96,8 +104,8 @@ top:-50px;
 .container-divider{
 width: 25%;
 position: relative;
-top: -10px;
-left: -250px;
+top: -20px;
+left: -200px;
 }
 /* footer */
 
