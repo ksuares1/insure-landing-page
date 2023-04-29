@@ -54,7 +54,8 @@ top:-50px;
 .plans-pg{
     background-color: white;
     color:white;
-    border-radius:6px;
+    /* border-radius:6px; */
+    border-color:white;
     position:relative;
     top:10px;
     left:-10px; 
