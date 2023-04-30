@@ -81,6 +81,7 @@ top:-50px;
 }
 .welcome-container{
     background-color:hsl(270, 9%, 17%);
+    background-size: cover;
     width:100%;
     height:50%;
     margin:0 auto;
